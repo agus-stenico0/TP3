@@ -1,0 +1,29 @@
+.info-cuadro {
+    background-color: #305252; 
+    color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.info-cuadro h2 {
+    margin-bottom: 10px;
+}
+
+.info-cuadro p {
+    margin: 0;
+}
+.footer {
+    background-color: #305252; 
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+    border-top: 1px solid #77878B;
+}
+
+.footer p {
+    margin: 0;
+}
